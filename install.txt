@@ -1,0 +1,2 @@
+Just download the file ggg.tar.gz and decompress it. Copy/Move folder ggb to lib/plugins. That's all.
+Another way uses the plugin manager of Dokuwiki.
