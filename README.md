@@ -2,7 +2,7 @@
 Dokuwiki plugin for geogebra5 integration
 
 As announced above this is a Dokuwiki plugin, designed for geogebra5 integration.
-Is is an early try, so don't blame me for mistakes or low standard programming. :-)
+It is an early try, so don't blame me for mistakes or low standard programming. :-)
 
 Simply write something like
   \<ggb 480\>filename\</ggb\>
